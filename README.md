@@ -1,4 +1,6 @@
-
+# Current status
+* generally working, installing a root directory from git is kinda weird - needs to be a composer package
+* want to do some cleanup, add copyright notices and documentation
 
 ## Possible future enhancements
 * caching
